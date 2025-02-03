@@ -1,3 +1,1 @@
-Please check this gdrive link to download the user manual of the website:
-
-https://drive.google.com/file/d/1fKN7RDi5c0bcX8AzK7q7phARnVtQ7Mrb/view?usp=sharing
+The readme file is a manual but is still under process. The key feature of this application is that an employee and an applicant both can view their progress of applications at the same time. They both can access the app and more features can be added to it.
